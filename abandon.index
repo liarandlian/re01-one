@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>尝试</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+      backgroud-clour:#f1f1f1;
+      text-align:center;
+      padding:40px;
+      ">
+      <img src="https://ts4.tc.mm.bing.net/th/id/OIP-C.KcFED4GKpmM5wOAhOzMnbAHaLl?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"alt="秀儿"width="201px">
+      <img src='https://ts2.tc.mm.bing.net/th/id/OIP-C.FzReqsm3BR89zqwPpYy_HQHaEo?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3'alt="滑稽"width="201px">
+    </div>
+    <div
+      style="
+      backgroud-clour:#f1f1f1;
+      text-align:center;
+      padding:40px;
+      font-size:12px;
+      ">
+      <p>歪比巴卜</p>
+    </div>
+    <div style="
+      max-width:700px;
+      margin:30px auto;
+      padding:15px
+      line-height:1.7;
+      color:pink
+      ">
+      <p>黑化肥会发灰</p>
+      <p>意大利面要拌42号混凝土</p>
+      <p>秀秀是最美的秀秀</p>
+    </div>
+    <div style="
+       backgroud-clour:#f1f1f1;
+       text-align:center;
+       padding:40px;
+       font-size:12px;
+    ">
+    
+    </div>
+  </body>
+</html>
